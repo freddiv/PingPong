@@ -1,0 +1,23 @@
+[
+{"name":"Mark",
+"serve_accuracy":"98",
+"serve_spin":"10",
+"return_skill":"90",
+"return_accuracy":"85",
+"return_spin": "5",
+"notes":"As the only non-fictional participant in the tournament, Mark may struggle to measure up."},
+{"name":"Dr. Claw",
+"serve_accuracy":"90",
+"serve_spin":"20",
+"return_skill":"85",
+"return_accuracy":"90",
+"return_spin": "15",
+"notes":"Using his patented grip, Dr. Claw is able to deliver tremendous spin, but his accuracy suffers due to constant interruptions from incompetent henchmen."},
+{"name":"O-Ren Ishii",
+"serve_accuracy":"99",
+"serve_spin":"0",
+"return_skill":"95",
+"return_accuracy":"90",
+"return_spin": "0",
+"notes":"She's accurate and reliable, but Ishii's total lack of spin makes her easy to predict."}
+]						

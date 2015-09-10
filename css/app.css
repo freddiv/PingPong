@@ -1,0 +1,79 @@
+/* app css stylesheet */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+table {
+    table-layout:fixed;
+}
+div.competitor blockquote {
+    border-left: 0px solid white;
+}
+div.competitor h2.winner {
+    color:red;
+}
+#playByPlay {
+  height:250px;
+  overflow-y:auto;
+}
+.tweet-list {
+  display: block;
+  text-decoration: none;
+  width:95%;
+}
+#playByPlay li{
+  display: block;
+  text-decoration: none;
+  padding-bottom:.25em;
+  width: 400px;
+}
+
+#playByPlay li.point{
+  display: block;
+  text-decoration: none;
+  font-weight:bold;
+  padding-bottom:.25em;
+  width: 400px;
+}
+#playByPlay li.game{
+  display: block;
+  font-weight:bold;
+  color: red;
+  text-decoration: none;
+  padding-bottom:.95em;
+  width: 400px;
+}
+#tweets-list li div{
+  display: inline-block;
+  text-decoration: none;
+  padding:.15em; 
+}
