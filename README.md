@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ArmorPayments coding challenge
 Armor Payments is holding our annual ping-pong tournament, and fame, glory, and office braging rights are on the line! Unfortunately, we forgot to make a reservation to rent a ping-pong table, so we can't actually play ping-pong. Instead, we'd like your help in simulating the tournament.
 
@@ -56,3 +57,7 @@ If you have some extra time, consider updating your implementation to include on
 ## Submitting your solution
 Please include all necessary files, including your code, copies of any libraries you used, the data file, and this README in a ZIP file titled `armor-coding-challenge-[YOUR_FIRST_AND_LAST_INITIAL].zip`. Include any necessary instructions to run your solution. If you'd like to provide some additional context, a brief description of your solution, an explanation of why you selected the language/environment you did, and any trade-offs you made and why is welcome but not required.
 
+=======
+# PingPong
+Code challenge ping pong
+>>>>>>> 48134a3f73a042db2b3e4172254616669d400694
